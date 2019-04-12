@@ -1,2 +1,2 @@
 # nonlinear-optimization
-An Optimal Allocation Model of Smart Grid Information Security Resources(MATLAB Code)
+MATLAB Code for an algorithm proposed in a conference paper named "An Optimal Allocation Model of Smart Grid Information Security Resources"
